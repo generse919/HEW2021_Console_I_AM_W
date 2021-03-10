@@ -1,0 +1,21 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output ディレクトリの末尾がスラッシュではありません。Output ディレクトリが適切に評価されるようにするために、このビルド インスタンスによってスラッシュが追加されます。
+  ConsoleManager.cpp
+c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\ysengine\consolemanager.cpp(392): warning C4477: 'wprintf' : 書式文字列 '%s' には、型 'wchar_t *' の引数が必要ですが、可変個引数 1 は型 'const char *' です
+  c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\ysengine\consolemanager.cpp(392): note: 書式文字列に '%hs' を使用することをお勧めします
+  c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\ysengine\consolemanager.cpp(392): note: 書式文字列に '%Ts' を使用することをお勧めします
+  c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\ysengine\consolemanager.cpp(392): note: この警告は Visual C++ によって使用される非標準のセマンティクスに基づくものです
+c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\ysengine\consolemanager.cpp(392): warning C4477: 'wprintf' : 書式文字列 '%s' には、型 'wchar_t *' の引数が必要ですが、可変個引数 2 は型 'char *' です
+  c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\ysengine\consolemanager.cpp(392): note: 書式文字列に '%hs' を使用することをお勧めします
+  c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\ysengine\consolemanager.cpp(392): note: 書式文字列に '%Ts' を使用することをお勧めします
+  c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\ysengine\consolemanager.cpp(392): note: この警告は Visual C++ によって使用される非標準のセマンティクスに基づくものです
+  YellowSoul.cpp
+c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\hew2021_soul\basesprite.h(103): warning C4114: 同じ型の修飾子が 2 度以上使われています。
+c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\hew2021_soul\yellowsoul.cpp(79): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\hew2021_soul\yellowsoul.cpp(95): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\hew2021_soul\yellowsoul.cpp(98): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+  コード生成しています。
+  5 of 80 functions ( 6.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  HEW2021_Soul.vcxproj -> C:\Users\mount\OneDrive\Desktop\HAL\CP11\HEW2021_Console\HEW2021_Soul\..\Release\exe\HEW2021_Soul.exe

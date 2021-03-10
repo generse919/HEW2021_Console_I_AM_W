@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="YSEngine">
+      <UniqueIdentifier>{53aa5212-c3bd-4741-8232-d8aaffe8814e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RunTime">
+      <UniqueIdentifier>{89e3270e-afe4-4bc7-9ea2-eff19671443c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scenes">
+      <UniqueIdentifier>{b831577c-c9cf-4fab-b89e-9dbf4181de52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Base">
+      <UniqueIdentifier>{4068d47d-f2d0-4399-b72b-6a38b60f2893}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scenes\Sprites">
+      <UniqueIdentifier>{3e947307-be94-4380-8c11-23d0c83ebea8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\YSEngine\Input.cpp">
+      <Filter>YSEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\YSEngine\Math.cpp">
+      <Filter>YSEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\YSEngine\ConsoleManager.cpp">
+      <Filter>YSEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\YSEngine\FileLoader.cpp">
+      <Filter>YSEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\YSEngine\GameTimer.cpp">
+      <Filter>YSEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseScene.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseSprite.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>RunTime</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>RunTime</Filter>
+    </ClCompile>
+    <ClCompile Include="message.cpp">
+      <Filter>Scenes\Sprites</Filter>
+    </ClCompile>
+    <ClCompile Include="ME_YellowSoul.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="ME_BlueSoul.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="ME_RedSoul.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="ME_GreenSoul.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\YSEngine\Input.h">
+      <Filter>YSEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\YSEngine\Math.h">
+      <Filter>YSEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\YSEngine\YSConsoleGameEngine.h">
+      <Filter>YSEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\YSEngine\ConsoleManager.h">
+      <Filter>YSEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\YSEngine\FileLoader.h">
+      <Filter>YSEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\YSEngine\GameTimer.h">
+      <Filter>YSEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseScene.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseSprite.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>RunTime</Filter>
+    </ClInclude>
+    <ClInclude Include="message.h">
+      <Filter>Scenes\Sprites</Filter>
+    </ClInclude>
+    <ClInclude Include="ME_YellowSoul.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="ME_RedSoul.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="ME_GreenSoul.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="ME_BlueSoul.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output ディレクトリの末尾がスラッシュではありません。Output ディレクトリが適切に評価されるようにするために、このビルド インスタンスによってスラッシュが追加されます。
+cl : コマンド ライン warning D9025: '/sdl' より '/GS-' が優先されます。
+  Player.cpp
+c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\hew2021_player\basesprite.h(129): warning C4114: 同じ型の修飾子が 2 度以上使われています。
+c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\hew2021_player\player.cpp(161): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\hew2021_player\player.cpp(164): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\hew2021_player\player.cpp(166): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\hew2021_player\player.cpp(167): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\hew2021_player\player.cpp(169): warning C4244: '+=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\hew2021_player\player.cpp(170): warning C4244: '+=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\hew2021_player\player.cpp(300): warning C4477: 'fprintf' : 書式文字列 '%s' には、型 'char *' の引数が必要ですが、可変個引数 2 は型 'LPVOID' です
+  コード生成しています。
+  1 of 80 functions ( 1.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  HEW2021_Player.vcxproj -> C:\Users\mount\OneDrive\Desktop\HAL\CP11\HEW2021_Console\HEW2021_Player\..\Release\exe\HEW2021_Player.exe

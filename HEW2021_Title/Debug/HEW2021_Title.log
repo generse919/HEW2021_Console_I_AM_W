@@ -1,0 +1,10 @@
+﻿  ConsoleManager.cpp
+c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\ysengine\consolemanager.cpp(392): warning C4477: 'wprintf' : 書式文字列 '%s' には、型 'wchar_t *' の引数が必要ですが、可変個引数 1 は型 'const char *' です
+  c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\ysengine\consolemanager.cpp(392): note: 書式文字列に '%hs' を使用することをお勧めします
+  c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\ysengine\consolemanager.cpp(392): note: 書式文字列に '%Ts' を使用することをお勧めします
+  c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\ysengine\consolemanager.cpp(392): note: この警告は Visual C++ によって使用される非標準のセマンティクスに基づくものです
+c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\ysengine\consolemanager.cpp(392): warning C4477: 'wprintf' : 書式文字列 '%s' には、型 'wchar_t *' の引数が必要ですが、可変個引数 2 は型 'char *' です
+  c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\ysengine\consolemanager.cpp(392): note: 書式文字列に '%hs' を使用することをお勧めします
+  c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\ysengine\consolemanager.cpp(392): note: 書式文字列に '%Ts' を使用することをお勧めします
+  c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\ysengine\consolemanager.cpp(392): note: この警告は Visual C++ によって使用される非標準のセマンティクスに基づくものです
+  HEW2021_Title.vcxproj -> C:\Users\mount\OneDrive\Desktop\HAL\CP11\HEW2021_Console\Debug\HEW2021_Title.exe

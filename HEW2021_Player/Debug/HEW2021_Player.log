@@ -1,0 +1,20 @@
+﻿  ConsoleManager.cpp
+c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\ysengine\consolemanager.cpp(392): warning C4477: 'wprintf' : 書式文字列 '%s' には、型 'wchar_t *' の引数が必要ですが、可変個引数 1 は型 'const char *' です
+  c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\ysengine\consolemanager.cpp(392): note: 書式文字列に '%hs' を使用することをお勧めします
+  c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\ysengine\consolemanager.cpp(392): note: 書式文字列に '%Ts' を使用することをお勧めします
+  c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\ysengine\consolemanager.cpp(392): note: この警告は Visual C++ によって使用される非標準のセマンティクスに基づくものです
+c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\ysengine\consolemanager.cpp(392): warning C4477: 'wprintf' : 書式文字列 '%s' には、型 'wchar_t *' の引数が必要ですが、可変個引数 2 は型 'char *' です
+  c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\ysengine\consolemanager.cpp(392): note: 書式文字列に '%hs' を使用することをお勧めします
+  c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\ysengine\consolemanager.cpp(392): note: 書式文字列に '%Ts' を使用することをお勧めします
+  c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\ysengine\consolemanager.cpp(392): note: この警告は Visual C++ によって使用される非標準のセマンティクスに基づくものです
+  Player.cpp
+c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\hew2021_player\basesprite.h(129): warning C4114: 同じ型の修飾子が 2 度以上使われています。
+c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\hew2021_player\player.cpp(161): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\hew2021_player\player.cpp(164): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\hew2021_player\player.cpp(166): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\hew2021_player\player.cpp(167): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\hew2021_player\player.cpp(169): warning C4244: '+=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\hew2021_player\player.cpp(170): warning C4244: '+=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\mount\onedrive\desktop\hal\cp11\hew2021_console\hew2021_player\player.cpp(300): warning C4477: 'fprintf' : 書式文字列 '%s' には、型 'char *' の引数が必要ですが、可変個引数 2 は型 'LPVOID' です
+  コードを生成中...
+  HEW2021_Player.vcxproj -> C:\Users\mount\OneDrive\Desktop\HAL\CP11\HEW2021_Console\Debug\HEW2021_Player.exe

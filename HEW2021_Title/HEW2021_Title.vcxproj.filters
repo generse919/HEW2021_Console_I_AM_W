@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="YSEngine">
+      <UniqueIdentifier>{fe29bcbf-345b-4257-ae56-3958e9d93c70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scenes">
+      <UniqueIdentifier>{52206ce7-31a9-4715-90e6-f81259dd6f6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Base">
+      <UniqueIdentifier>{0bb4f2f4-1b83-4822-b145-50148f54cb3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Runtime">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\YSEngine\ConsoleManager.h">
+      <Filter>YSEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\YSEngine\FileLoader.h">
+      <Filter>YSEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\YSEngine\GameTimer.h">
+      <Filter>YSEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\YSEngine\Input.h">
+      <Filter>YSEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\YSEngine\Math.h">
+      <Filter>YSEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\YSEngine\YSConsoleGameEngine.h">
+      <Filter>YSEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseScene.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseSprite.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Title.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Runtime</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Game.cpp">
+      <Filter>Runtime</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Runtime</Filter>
+    </ClCompile>
+    <ClCompile Include="..\YSEngine\ConsoleManager.cpp">
+      <Filter>YSEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\YSEngine\FileLoader.cpp">
+      <Filter>YSEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\YSEngine\GameTimer.cpp">
+      <Filter>YSEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\YSEngine\Input.cpp">
+      <Filter>YSEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\YSEngine\Math.cpp">
+      <Filter>YSEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseSprite.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseScene.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Title.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
